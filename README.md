@@ -13,6 +13,8 @@ ___________
 
 `ArrayList <contenido> crece dinámicamente;`
 
+Algoritmo de Poisson > generación del mejor candidado
+
 
 - ¿En qué punto se encuentran el [ruido] y los datos reales?
 
