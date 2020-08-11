@@ -19,6 +19,8 @@ ___________
 
 Podemos pensar que los datos sensados de la naturaleza es una representación [y visualización] de un patrón de crecimiento, y por lo tanto, una representación de la vida.
 
-¿Y acaso un muestreo de [ruido] que tiene como fuente sucesos / fenomenos de la naturaleza puede ser tomado como un patrón de crecimiento?
+¿Y acaso un muestreo de [ruido] que tiene como fuente sucesos / fenómenos de la naturaleza puede ser tomado como un patrón de crecimiento?
 
-¿Por qué tomamos como valido un sensado [con defectos] de la naturaleza y no así un sensado del viento, o de la estática? Ambos sensados escapan de nuestra percepción natural para detectarlas y es el contexto [y la intensión] lo que lo hace verdadero o no [valido o no].
+¿Por qué tomamos como válido un sensado [con defectos] de la naturaleza y no así un sensado del viento, o de la estática / campo magnético? Ambos sensados escapan de nuestra percepción natural para detectarlas y es el contexto [y la intensión] lo que lo hace verdadero o no [valido o no].
+
+Siguiendo con la reflexión, puedo decir que no es necesario demostrar si realmente el sensado es válido como patrón de crecimiento, pero es válido como REPRESENTACIÓN de ello.
