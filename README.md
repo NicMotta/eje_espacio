@@ -13,7 +13,7 @@ ___________
 
 **Algoritmos de sampleo / generación de puntos**
 
-ArrayList <contenido> crece dinámicamente;
+`ArrayList <contenido> crece dinámicamente;`
 
 
 - ¿En qué punto se encuentran el [ruido] y los datos reales?
