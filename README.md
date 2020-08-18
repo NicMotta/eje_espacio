@@ -3,6 +3,7 @@
 
 # Proceso / Bitácora
 - [[11 de agosto - Algoritmos]](https://nicmotta.github.io/eje_espacio/#11-de-agosto)
+- [[18 de agosto - OpenCV]](https://nicmotta.github.io/eje_espacio/#18-de-agosto)
 
 
 ___________
@@ -25,3 +26,9 @@ Podemos pensar que los datos sensados de la naturaleza es una representación [y
 ¿Por qué tomamos como válido un sensado [con defectos] de la naturaleza y no así un sensado del viento, o de la estática / campo magnético? Ambos sensados escapan de nuestra percepción natural para detectarlas y es el contexto [y la intensión] lo que lo hace verdadero o no [valido o no].
 
 Siguiendo con la reflexión, puedo decir que no es necesario demostrar si realmente el sensado es válido como patrón de crecimiento, pero es válido como REPRESENTACIÓN de ello.
+
+---
+
+### [18 de agosto]
+
+**OpenCV en openframeworks**
