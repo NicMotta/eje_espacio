@@ -32,3 +32,5 @@ Siguiendo con la reflexión, puedo decir que no es necesario demostrar si realme
 ### [18 de agosto]
 
 **OpenCV en openframeworks**
+
+*ESTRUCTURAS en el espacio* >> ¿público? ¿De qué tamaño? ¿Con movimiento? ¿Reacciona a algún estímulo?
