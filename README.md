@@ -4,6 +4,7 @@
 # Proceso / Bitácora
 - [[11 de agosto - Algoritmos]](https://nicmotta.github.io/eje_espacio/#11-de-agosto)
 - [[18 de agosto - OpenCV]](https://nicmotta.github.io/eje_espacio/#18-de-agosto)
+- [[21 de agosto - ATMOSFERA]](https://nicmotta.github.io/eje_espacio/#21-de-agosto)
 
 
 ___________
@@ -34,3 +35,15 @@ Siguiendo con la reflexión, puedo decir que no es necesario demostrar si realme
 **OpenCV en openframeworks**
 
 *ESTRUCTURAS en el espacio* >> ¿público? ¿De qué tamaño? ¿Con movimiento? ¿Reacciona a algún estímulo?
+
+---
+
+### [21 de agosto]
+
+**Seminario Entornos Lumínicos con Magdalena Molinari**
+
+Campo eléctrico >> Campo magnético >> luz **>>** Todos corresponden al mismo fenómeno >> CAMPO ELECTROMAGNÉTICO [conjunción de muchas areas que me interesan en términos medibles o númericos]
+
+*Schroedinger pag 66* >> número de la luz
+
+Colores de la **ATMOSFERA**
