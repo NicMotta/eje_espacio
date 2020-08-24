@@ -47,5 +47,3 @@ Campo eléctrico >> Campo magnético >> luz **>>** Todos corresponden al mismo f
 *Schroedinger pag 66* >> número de la luz
 
 Colores de la **ATMOSFERA**
-
-[<iframe width="560" height="315" src="https://www.youtube.com/embed/MEyXXb_2gqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>][asd]
