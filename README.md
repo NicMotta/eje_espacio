@@ -57,6 +57,9 @@ Colores de la **ATMÓSFERA**
 
 Pensar como conocemos el espacio >> Salir de la zona de confort
 
+![data/primeraclase.png]
+
+
 ---
 
 ### [4 de septiembre]
