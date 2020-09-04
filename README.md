@@ -4,8 +4,9 @@
 # Proceso / Bitácora
 - [[11 de agosto - Algoritmos]](https://nicmotta.github.io/eje_espacio/#11-de-agosto)
 - [[18 de agosto - OpenCV]](https://nicmotta.github.io/eje_espacio/#18-de-agosto)
-- [[21 de agosto - ATMOSFERA]](https://nicmotta.github.io/eje_espacio/#21-de-agosto)
-
+- [[21 de agosto - ATMÓSFERA]](https://nicmotta.github.io/eje_espacio/#21-de-agosto)
+- [[1 de septiembre] - Seminario Espacio](https://nicmotta.github.io/eje_espacio/#1-de-septiembre)
+- [[4 de septiembre] - ?](https://nicmotta.github.io/eje_espacio/#4-de-septiembre)
 
 ___________
 
@@ -15,7 +16,7 @@ ___________
 
 `ArrayList <contenido> crece dinámicamente;`
 
-Algoritmo de Poisson > generación del mejor candidado
+Algoritmo de Poisson > generación del mejor candidato
 
 
 - ¿En qué punto se encuentran el [ruido] y los datos reales?
@@ -32,7 +33,7 @@ Siguiendo con la reflexión, puedo decir que no es necesario demostrar si realme
 
 ### [18 de agosto]
 
-**OpenCV en openframeworks**
+**OpenCV en openFrameworks**
 
 *ESTRUCTURAS en el espacio* >> ¿público? ¿De qué tamaño? ¿Con movimiento? ¿Reacciona a algún estímulo?
 
@@ -42,8 +43,20 @@ Siguiendo con la reflexión, puedo decir que no es necesario demostrar si realme
 
 **Seminario Entornos Lumínicos con Magdalena Molinari**
 
-Campo eléctrico >> Campo magnético >> luz **>>** Todos corresponden al mismo fenómeno >> CAMPO ELECTROMAGNÉTICO [conjunción de muchas areas que me interesan en términos medibles o númericos]
+Campo eléctrico >> Campo magnético >> luz **>>** Todos corresponden al mismo fenómeno >> CAMPO ELECTROMAGNÉTICO [conjunción de muchas áreas que me interesan en términos medibles o numéricos]
 
 *Schroedinger pag 66* >> número de la luz
 
-Colores de la **ATMOSFERA**
+Colores de la **ATMÓSFERA**
+
+---
+
+### [1 de septiembre]
+
+**Seminario espacio Jazmin Adler - Claudia Valente**
+
+Pensar como conocemos el espacio >> Salir de la zona de confort
+
+---
+
+### [4 de septiembre]
