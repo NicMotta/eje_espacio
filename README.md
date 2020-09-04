@@ -79,7 +79,7 @@ Pensar como conocemos el espacio >> Salir de la zona de confort
 
 - Lo vivo >> ¿Qué es lo vivo? >> Lo no vivo
 
-  - Inteligencia Artificial >> se conecta con la noción de vida inteligente que plantea La Padula.
+  - Inteligencia Artificial >> se conecta con la noción de vida inteligente que no plantea La Padula en su pregunta "¿Cómo detectar vida inteligente en Marte?".
 
 - Percibo el espacio con otros sentidos [SENSORES]
 
