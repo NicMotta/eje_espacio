@@ -64,6 +64,8 @@ Pensar como conocemos el espacio >> Salir de la zona de confort
 
 ### [4 de septiembre]
 
+**Boceto**
+
 ![](data/primersketch.jpg)
 
 **Pasado a limpio**
