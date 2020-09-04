@@ -66,4 +66,21 @@ Pensar como conocemos el espacio >> Salir de la zona de confort
 
 ![](data/primersketch.jpg)
 
+**Pasado a limpio**
+
+![](data/lenguaje_espacio.png)
+
+
+**Reflexiones:**
+
+- Puedo interactuar con el entorno y al mismo tiempo con mis datos, modificarlos y detonar cosas con ellos. ¿Con qué sentido?
+
+- ¿Qué pasa si el objetivo de sensado soy yo o mi entorno? >> Espacio que habito.
+
+- Lo vivo >> ¿Qué es lo vivo? >> Lo no vivo
+
+  - Inteligencia Artificial >> se conecta con la noción de vida inteligente que plantea La Padula.
+
+- Percibo el espacio con otros sentidos [SENSORES]
+
 ---
