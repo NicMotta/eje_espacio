@@ -131,7 +131,7 @@ Ambos campos implican fuerzas sobre las partículas afectadas (que se manifiesta
 
 Los campos electromagnéticos se propagan por el espacio como ondas electromagnéticas a la velocidad de la luz (en el vacío) de acuerdo con las Ecuaciones de Maxwell, llevando asociada una energía electromagnética.
 
-![](wave.animacion.gif)
+![](wave_animacion.gif)
 
 
 **Nomenclatura HERTZ >> frecuencias**
