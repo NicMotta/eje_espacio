@@ -7,6 +7,7 @@
 - [[21 de agosto - ATMÓSFERA]](https://nicmotta.github.io/eje_espacio/#21-de-agosto)
 - [[1 de septiembre] - Seminario Espacio](https://nicmotta.github.io/eje_espacio/#1-de-septiembre)
 - [[4 de septiembre] - ?](https://nicmotta.github.io/eje_espacio/#4-de-septiembre)
+- [[8 de septiembre] - Diferentes espacios](https://nicmotta.github.io/eje_espacio/#8-de-septiembre)
 
 ___________
 
@@ -84,5 +85,29 @@ Pensar como conocemos el espacio >> Salir de la zona de confort
   - Inteligencia Artificial >> se conecta con la noción de vida inteligente que no plantea La Padula en su pregunta "¿Cómo detectar vida inteligente en Marte?".
 
 - Percibo el espacio con otros sentidos [SENSORES]
+
+---
+
+### [8 de septiembre]
+
+**Distintos espacios en el arte contemporáneo**
+
+- Espacio físico
+- Espacio conceptual
+- Espacio virtual >> a partir de los '90
+  - Exhibición en la web
+
+  **Soliman López - HARDDISKMUSEUM**
+
+*Mientras veo la presentación de Lenguaje Espacio, pienso: ¿Qué pasa con los datos? Con la veracidad de los datos, con la manipulación de ellos. ¿Hacia donde queremos [quiero] ir?*
+
+*"(...) el viejo debate entre lo artificial y lo natural ya no es relevante (...) Estamos a la vez mediados y potenciados por la computadora. Estas nuevas formas de conceptualización y percepción de la realidad suponen algo mas que simples cambios cuantitativos de los modos de ver, pensar y actuar en el mundo. Constituyen, por el contraio, cambios cualitativos de nuestro ser, una  entra nueva facultado, la post-biológica facultad de cyberception" Roy Ascott*
+
+
+**TOPOLOGÍA**
+
+*“El arte de la instalación, que en la actualidad es la forma señera en el contexto del arte contemporáneo, opera como un reverso de la reproducción. La instalación extrae una copia del presunto espacio abierto y sin marcas de la circulación anónima y lo ubica –aunque sólo sea temporalmente- en el contexto fijo, estable y cerrado de un “aquí y ahora” topológicamente bien definido. Esto quiere decir que todos los objetos dispuestos en una instalación son originales, incluso cuando –o precisamente cuando- circulen como copias fuera de la instalación” (Boris Groys, La topología del arte contemporáneo).*
+
+
 
 ---
