@@ -143,8 +143,9 @@ Por ejemplo, el hercio se aplica en física a la medición de la cantidad de vec
 Un hercio es la frecuencia de una oscilación que sufre una partícula en un período de un segundo.
 
 
+#### El ruido es frecuencia
 
-
+![](noise_1.jpg)
 
 
 
