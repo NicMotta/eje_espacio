@@ -131,7 +131,7 @@ Ambos campos implican fuerzas sobre las partículas afectadas (que se manifiesta
 
 Los campos electromagnéticos se propagan por el espacio como ondas electromagnéticas a la velocidad de la luz (en el vacío) de acuerdo con las Ecuaciones de Maxwell, llevando asociada una energía electromagnética.
 
-![](wave_animacion.gif)
+![](data/wave_animacion.gif)
 
 
 **Nomenclatura HERTZ >> frecuencias**
@@ -145,7 +145,7 @@ Un hercio es la frecuencia de una oscilación que sufre una partícula en un per
 
 #### El ruido es frecuencia
 
-![](noise_1.jpg)
+![](data/noise_1.jpg)
 
 Pensar diferentes frecuencias de la atmósfera, entre ellas las que pueden ser medidas con sensores >> MPU9250, giroscópio, acelerómetro, **magnetómetro**, temperatura. En los 3 ejes [total 9 ejes].
 
