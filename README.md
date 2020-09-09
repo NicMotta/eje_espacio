@@ -8,6 +8,7 @@
 - [[1 de septiembre] - Seminario Espacio](https://nicmotta.github.io/eje_espacio/#1-de-septiembre)
 - [[4 de septiembre] - ?](https://nicmotta.github.io/eje_espacio/#4-de-septiembre)
 - [[8 de septiembre] - Diferentes espacios](https://nicmotta.github.io/eje_espacio/#8-de-septiembre)
+- [[9 de septiembre] - Investigación de poética](https://nicmotta.github.io/eje_espacio/#9-de-septiembre)
 
 ___________
 
@@ -107,6 +108,44 @@ Pensar como conocemos el espacio >> Salir de la zona de confort
 **TOPOLOGÍA**
 
 *“El arte de la instalación, que en la actualidad es la forma señera en el contexto del arte contemporáneo, opera como un reverso de la reproducción. La instalación extrae una copia del presunto espacio abierto y sin marcas de la circulación anónima y lo ubica –aunque sólo sea temporalmente- en el contexto fijo, estable y cerrado de un “aquí y ahora” topológicamente bien definido. Esto quiere decir que todos los objetos dispuestos en una instalación son originales, incluso cuando –o precisamente cuando- circulen como copias fuera de la instalación” (Boris Groys, La topología del arte contemporáneo).*
+
+---
+
+### [9 de septiembre]
+
+**Investigación de poética**
+
+*¿Cómo generar una poética con el sensor [sensores] y los datos?*
+
+**Campo ELECTROMAGNÉTICO**
+
+El concepto campo electromagnético es un concepto formal que se utiliza en la Física para representar una perturbación en el espacio, que se propaga a través de él de manera ondulatoria y que provoca una interacción sobre las partículas con carga eléctrica.
+
+Esa perturbación se manifiesta de dos maneras diferentes sobre las cargas, originando dos interacciones diferenciadas:
+
+ - la llamada interacción eléctrica, modelizable físicamente mediante el denominado campo eléctrico y
+
+ - la llamada interacción magnética, modelizable físicamente mediante el denominado campo magnético.
+
+Ambos campos implican fuerzas sobre las partículas afectadas (que se manifiestan en situaciones diferentes) y por tanto son magnitudes vectoriales, con dirección, sentido e intensidad.
+
+Los campos electromagnéticos se propagan por el espacio como ondas electromagnéticas a la velocidad de la luz (en el vacío) de acuerdo con las Ecuaciones de Maxwell, llevando asociada una energía electromagnética.
+
+![](wave.animacion.gif)
+
+
+**Nomenclatura HERTZ >> frecuencias**
+
+Un **hercio** representa un ciclo por cada segundo, entendiendo ciclo como la repetición de un suceso.
+
+Por ejemplo, el hercio se aplica en física a la medición de la cantidad de veces por un segundo que se repite una onda (ya sea sonora o electromagnética) o puede aplicarse también, entre otros usos, a las olas de mar que llegan a la playa por segundo o a las vibraciones de un sólido. La magnitud que mide el hercio se denomina frecuencia y es, en este sentido, la inversa del período.
+
+Un hercio es la frecuencia de una oscilación que sufre una partícula en un período de un segundo.
+
+
+
+
+
 
 
 
