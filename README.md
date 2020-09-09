@@ -113,7 +113,7 @@ Pensar como conocemos el espacio >> Salir de la zona de confort
 
 ### [9 de septiembre]
 
-**Investigación de poética**
+#### Investigación de poética
 
 *¿Cómo generar una poética con el sensor [sensores] y los datos?*
 
