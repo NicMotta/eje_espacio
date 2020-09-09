@@ -147,7 +147,7 @@ Un hercio es la frecuencia de una oscilación que sufre una partícula en un per
 
 ![](noise_1.jpg)
 
-Pensar diferentes frecuencias de la atmosfera, entre ellas las que pueden ser medidas con sensores >> MPU9250, giroscopio, acelerometro, **magnetometro**, temperatura. En los 3 ejes [total 9 ejes].
+Pensar diferentes frecuencias de la atmósfera, entre ellas las que pueden ser medidas con sensores >> MPU9250, giroscópio, acelerómetro, **magnetómetro**, temperatura. En los 3 ejes [total 9 ejes].
 
 
 
