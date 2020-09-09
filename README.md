@@ -147,9 +147,24 @@ Un hercio es la frecuencia de una oscilación que sufre una partícula en un per
 
 ![](data/noise_1.jpg)
 
-Pensar diferentes frecuencias de la atmósfera, entre ellas las que pueden ser medidas con sensores >> MPU9250, giroscópio, acelerómetro, **magnetómetro**, temperatura. En los 3 ejes [total 9 ejes].
+Pensar diferentes frecuencias de la atmósfera, entre ellas las que pueden ser medidas con sensores >> MPU9250, giroscópio, acelerómetro, **magnetómetro**, temperatura.
 
+*En los 3 ejes [total 9 ejes].*
 
+#### El humano, el entorno, la atmósfera y las frecuencias.
+
+**¿Pensar la frecuencia como [ordenadora de comportamientos], expansión en el espacio de sistemas naturales?**
+
+- ¿Qué relación tiene la frecuencia con **sistema_innatural_1**?
+- ¿Qué relación tiene la frecuencia con la **morfogénesis**?
+
+La programación tanto en entornos digitales como analógicos, es decir, manejo de placas controladoras y chips, dependen de la frecuencia. Del mismo modo, la frecuencia actua tanto en el lugar donde habitamos como huamnos, convive con nosotros y nos [interpela? / modifica nuestro comportamiento?].
+
+Siguiendo este pensamiento:
+
+- ¿Podemos pensar que la frecuencia es algo fundamental en la vida humana, terrestre, natural [e innatural]?
+- **Nuevamente aparece la pregunta acerca de la vida, de lo vivo y lo no vivo**
+- ¿Cómo podemos vincular todo esto en el espacio, en una poetica?
 
 
 
