@@ -167,6 +167,8 @@ Siguiendo este pensamiento:
 - ¿Cómo podemos vincular todo esto en el espacio, en una poetica?
 
 
+### Mapa de frecuencia y pensamientos
+
 
 
 ---
