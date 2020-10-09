@@ -9,7 +9,7 @@
 - [[4 de septiembre] - ?](https://nicmotta.github.io/eje_espacio/#4-de-septiembre)
 - [[8 de septiembre] - Diferentes espacios](https://nicmotta.github.io/eje_espacio/#8-de-septiembre)
 - [[9 de septiembre] - Investigación de poética](https://nicmotta.github.io/eje_espacio/#9-de-septiembre)
-- [[15 de septiembre] - Lenguaje Espacio](https://nicmotta.github.io/eje_espacio/#15-de-septiembre)
+- [[09 de octubre] - ](https://nicmotta.github.io/eje_espacio/#09-de-octubre)
 
 ___________
 
@@ -174,4 +174,23 @@ Siguiendo este pensamiento:
 
 ---
 
-### [15 de septiembre]
+### [09 de octubre]
+
+**"Soy parte del número >> soy un número, por eso me senso / registro y obtengo información"**
+
+Ejercicio de Andrés Rodriguez para Entornos Sensoriales I.
+
+Generar un espejo con análisis de la imágen a traves de video o captura de video, utilizar OpenCV.
+
+*Registro de mi viaje al trabajo en auto*
+
+- Sensor MPU >> valores
+                - Giroscopio XYZ
+                - Acelerometro XYZ
+                - *Magnetómetro* XYZ
+                - Temperatura
+
+- Registro en video
+- Registro sonoro
+
+---
