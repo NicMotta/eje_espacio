@@ -170,7 +170,7 @@ Siguiendo este pensamiento:
 
 ### Mapa de frecuencia y pensamientos
 
-<iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/QFkTA"></iframe>
+<iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/GLF0h"></iframe>
 
 
 ---
