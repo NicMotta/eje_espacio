@@ -177,7 +177,7 @@ Siguiendo este pensamiento:
 
 ### [09 de octubre]
 
-**"Soy parte del número >> soy un número, por eso me senso / registro y obtengo información"**
+## "Soy parte del número >> soy un número, por eso me senso / registro y obtengo información"
 
 Ejercicio de Andrés Rodriguez para Entornos Sensoriales I.
 
