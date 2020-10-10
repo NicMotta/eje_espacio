@@ -187,13 +187,13 @@ Generar un espejo con análisis de la imágen a traves de video o captura de vid
 
 - Sensor MPU >> valores
 
-                - Giroscopio XYZ
+  - Giroscopio XYZ
 
-                - Acelerometro XYZ
+  - Acelerometro XYZ
 
-                - *Magnetómetro* XYZ
+  - *Magnetómetro* XYZ
 
-                - Temperatura
+  - Temperatura
 
 - Registro en video
 
