@@ -186,12 +186,17 @@ Generar un espejo con análisis de la imágen a traves de video o captura de vid
 *Registro de mi viaje al trabajo en auto*
 
 - Sensor MPU >> valores
+
                 - Giroscopio XYZ
+
                 - Acelerometro XYZ
+
                 - *Magnetómetro* XYZ
+
                 - Temperatura
 
 - Registro en video
+
 - Registro sonoro
 
 *En el sketch de Processing, toda información es mostrada y afecta al video / registro.*
