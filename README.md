@@ -179,7 +179,7 @@ Siguiendo este pensamiento:
 
 ## "Soy parte del número >> soy un número, por eso me senso / registro y obtengo información"
 
-Ejercicio de Andrés Rodriguez para Entornos Sensoriales I.
+**Ejercicio de Andrés Rodriguez para Entornos Sensoriales I.**
 
 Generar un espejo con análisis de la imágen a traves de video o captura de video, utilizar OpenCV.
 
@@ -193,5 +193,7 @@ Generar un espejo con análisis de la imágen a traves de video o captura de vid
 
 - Registro en video
 - Registro sonoro
+
+*En el sketch de Processing, toda información es mostrada y afecta al video / registro.*
 
 ---
