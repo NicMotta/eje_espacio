@@ -38,7 +38,7 @@ Siguiendo con la reflexión, puedo decir que no es necesario demostrar si realme
 
 **OpenCV en openFrameworks**
 
-*ESTRUCTURAS en el espacio* >> ¿público? ¿De qué tamaño? ¿Con movimiento? ¿Reacciona a algún estímulo?
+*ESTRUCTURAS en el espacio* >> ¿Público? ¿De qué tamaño? ¿Con movimiento? ¿Reacciona a algún estímulo?
 
 ---
 
@@ -56,7 +56,7 @@ Colores de la **ATMÓSFERA**
 
 ### [1 de septiembre]
 
-**Seminario espacio Jazmin Adler - Claudia Valente**
+**Seminario espacio Jazmín Adler - Claudia Valente**
 
 Pensar como conocemos el espacio >> Salir de la zona de confort
 
@@ -103,7 +103,7 @@ Pensar como conocemos el espacio >> Salir de la zona de confort
 
 *Mientras veo la presentación de Lenguaje Espacio, pienso: ¿Qué pasa con los datos? Con la veracidad de los datos, con la manipulación de ellos. ¿Hacia donde queremos [quiero] ir?*
 
-*"(...) el viejo debate entre lo artificial y lo natural ya no es relevante (...) Estamos a la vez mediados y potenciados por la computadora. Estas nuevas formas de conceptualización y percepción de la realidad suponen algo mas que simples cambios cuantitativos de los modos de ver, pensar y actuar en el mundo. Constituyen, por el contraio, cambios cualitativos de nuestro ser, una  entra nueva facultado, la post-biológica facultad de cyberception" Roy Ascott*
+*"(...) el viejo debate entre lo artificial y lo natural ya no es relevante (...) Estamos a la vez mediados y potenciados por la computadora. Estas nuevas formas de conceptualización y percepción de la realidad suponen algo mas que simples cambios cuantitativos de los modos de ver, pensar y actuar en el mundo. Constituyen, por el contrario, cambios cualitativos de nuestro ser, una  entra nueva facultado, la post-biológica facultad de cyberception" Roy Ascott*
 
 
 **TOPOLOGÍA**
@@ -124,9 +124,9 @@ El concepto campo electromagnético es un concepto formal que se utiliza en la F
 
 Esa perturbación se manifiesta de dos maneras diferentes sobre las cargas, originando dos interacciones diferenciadas:
 
- - la llamada interacción eléctrica, modelizable físicamente mediante el denominado campo eléctrico y
+ - la llamada interacción eléctrica, [modelizable] físicamente mediante el denominado campo eléctrico y
 
- - la llamada interacción magnética, modelizable físicamente mediante el denominado campo magnético.
+ - la llamada interacción magnética, [modelizable] físicamente mediante el denominado campo magnético.
 
 Ambos campos implican fuerzas sobre las partículas afectadas (que se manifiestan en situaciones diferentes) y por tanto son magnitudes vectoriales, con dirección, sentido e intensidad.
 
@@ -148,7 +148,7 @@ Un hercio es la frecuencia de una oscilación que sufre una partícula en un per
 
 ![](data/noise_1.jpg)
 
-Pensar diferentes frecuencias de la atmósfera, entre ellas las que pueden ser medidas con sensores >> MPU9250, giroscópio, acelerómetro, **magnetómetro**, temperatura.
+Pensar diferentes frecuencias de la atmósfera, entre ellas las que pueden ser medidas con sensores >> MPU9250, giroscópico, acelerómetro, **magnetómetro**, temperatura.
 
 *En los 3 ejes [total 9 ejes].*
 
@@ -159,13 +159,13 @@ Pensar diferentes frecuencias de la atmósfera, entre ellas las que pueden ser m
 - ¿Qué relación tiene la frecuencia con **sistema_innatural_1**?
 - ¿Qué relación tiene la frecuencia con la **morfogénesis**?
 
-La programación tanto en entornos digitales como analógicos, es decir, manejo de placas controladoras y chips, dependen de la frecuencia. Del mismo modo, la frecuencia actua tanto en el lugar donde habitamos como huamnos, convive con nosotros y nos [interpela? / modifica nuestro comportamiento?].
+La programación tanto en entornos digitales como analógicos, es decir, manejo de placas controladoras y chips, dependen de la frecuencia. Del mismo modo, la frecuencia actúa tanto en el lugar donde habitamos como humanos, convive con nosotros y nos [interpela? / modifica nuestro comportamiento?].
 
 Siguiendo este pensamiento:
 
 - ¿Podemos pensar que la frecuencia es algo fundamental en la vida humana, terrestre, natural [e innatural]?
 - **Nuevamente aparece la pregunta acerca de la vida, de lo vivo y lo no vivo**
-- ¿Cómo podemos vincular todo esto en el espacio, en una poetica?
+- ¿Cómo podemos vincular todo esto en el espacio, en una poética?
 
 
 ### Mapa de frecuencia y pensamientos
@@ -179,9 +179,9 @@ Siguiendo este pensamiento:
 
 #### Soy parte del número >> soy un número, por eso me senso / registro y obtengo información
 
-**Ejercicio de Andrés Rodriguez para Entornos Sensoriales I.**
+**Ejercicio de Andrés Rodríguez para Entornos Sensoriales I.**
 
-Generar un espejo con análisis de la imágen a traves de video o captura de video, utilizar OpenCV.
+Generar un espejo con análisis de la imagen a través de video o captura de video, utilizar OpenCV.
 
 *Registro de mi viaje al trabajo en auto*
 
@@ -189,7 +189,7 @@ Generar un espejo con análisis de la imágen a traves de video o captura de vid
 
   - Giroscopio XYZ
 
-  - Acelerometro XYZ
+  - Acelerómetro XYZ
 
   - *Magnetómetro* XYZ
 
