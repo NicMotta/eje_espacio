@@ -1,9 +1,6 @@
-### [Nic Motta](https://nicmotta.github.io) Eje Espacio
+### [Nic Motta](https://nicmotta.github.io)
 
 # Proceso / Bitácora
-
-
-
 - [[11 de agosto - Algoritmos]](https://nicmotta.github.io/eje_espacio/#11-de-agosto)
 - [[18 de agosto - OpenCV]](https://nicmotta.github.io/eje_espacio/#18-de-agosto)
 - [[21 de agosto - ATMÓSFERA]](https://nicmotta.github.io/eje_espacio/#21-de-agosto)
@@ -12,7 +9,6 @@
 - [[8 de septiembre] - Diferentes espacios](https://nicmotta.github.io/eje_espacio/#8-de-septiembre)
 - [[9 de septiembre] - Investigación de poética](https://nicmotta.github.io/eje_espacio/#9-de-septiembre)
 - [[09 de octubre] - ](https://nicmotta.github.io/eje_espacio/#09-de-octubre)
-- [[11 de octubre] -  Diagrama](https://nicmotta.github.io/eje_espacio/#11-de-octubre)
 
 ___________
 
@@ -180,7 +176,7 @@ Siguiendo este pensamiento:
 
 ### [09 de octubre]
 
-#### Soy parte del número >> soy un número, por eso me sensor / registro y obtengo información
+#### Soy parte del número >> soy un número, por eso me senso / registro y obtengo información
 
 **Ejercicio de Andrés Rodríguez para Entornos Sensoriales I.**
 
@@ -202,27 +198,6 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 - Registro sonoro
 
-***En el sketch de Processing, toda información es mostrada y afecta al video / registro.***
+*En el sketch de Processing, toda información es mostrada y afecta al video / registro.*
 
 ---
-
-### [11 de octubre]
-
-
-
-#### Diagrama de procesos mentales hasta el momento.
-
-
-
-![](data/reflexiones_MAE.png)
-
----
-
-### [12 de octubre]
-
-
-
-
-
-
-
