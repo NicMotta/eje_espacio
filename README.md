@@ -179,7 +179,7 @@ Siguiendo este pensamiento:
 
 ### [09 de octubre]
 
-#### Soy parte del número >> soy un número, por eso me senso / registro y obtengo información
+#### Soy parte del número >> soy un número, por eso me sensor / registro y obtengo información
 
 **Ejercicio de Andrés Rodríguez para Entornos Sensoriales I.**
 
@@ -205,9 +205,13 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 ---
 
-### [12 de octubre]
+### [11 de octubre]
 
 
+
+#### Diagrama de procesos mentales hasta el momento.
+
+![](N:\UNIVERSIDADES\MAESTRIA ARTE ELECTRONICO\TP ESPACIO\github\eje_espacio\data\reflexiones_MAE.png)
 
 
 
