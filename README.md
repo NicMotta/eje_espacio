@@ -1,7 +1,9 @@
-### [Nic Motta](https://nicmotta.github.io)
-### [Escrito Eje Espacio](https://nicmotta.github.io/eje_tiempo/escrito_eje_espacio)
+### [Nic Motta](https://nicmotta.github.io) Eje Espacio
 
 # Proceso / Bitácora
+
+
+
 - [[11 de agosto - Algoritmos]](https://nicmotta.github.io/eje_espacio/#11-de-agosto)
 - [[18 de agosto - OpenCV]](https://nicmotta.github.io/eje_espacio/#18-de-agosto)
 - [[21 de agosto - ATMÓSFERA]](https://nicmotta.github.io/eje_espacio/#21-de-agosto)
@@ -199,6 +201,15 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 - Registro sonoro
 
-*En el sketch de Processing, toda información es mostrada y afecta al video / registro.*
+***En el sketch de Processing, toda información es mostrada y afecta al video / registro.***
 
 ---
+
+### [12 de octubre]
+
+
+
+
+
+
+
