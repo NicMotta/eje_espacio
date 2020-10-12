@@ -211,7 +211,7 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 #### Diagrama de procesos mentales hasta el momento.
 
-![](N:\UNIVERSIDADES\MAESTRIA ARTE ELECTRONICO\TP ESPACIO\github\eje_espacio\data\reflexiones_MAE.png)
+![](data/reflexiones_MAE.png)
 
 
 
