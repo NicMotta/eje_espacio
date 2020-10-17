@@ -8,7 +8,8 @@
 - [[4 de septiembre] - ?](https://nicmotta.github.io/eje_espacio/#4-de-septiembre)
 - [[8 de septiembre] - Diferentes espacios](https://nicmotta.github.io/eje_espacio/#8-de-septiembre)
 - [[9 de septiembre] - Investigación de poética](https://nicmotta.github.io/eje_espacio/#9-de-septiembre)
-- [[09 de octubre] - ](https://nicmotta.github.io/eje_espacio/#09-de-octubre)
+- [[09 de octubre] - ?](https://nicmotta.github.io/eje_espacio/#09-de-octubre)
+- [[13 de octubre] - ?](https://nicmotta.github.io/eje_espacio/#13-de-octubre)
 
 ___________
 
@@ -211,6 +212,5 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 ````mermaid
 graph LR
     Dispositivo --> web-internet
-    web-internet --> Dispositvo 
+    web-internet --> Dispositvo
 ````
-
