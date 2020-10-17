@@ -209,8 +209,8 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 **Diego Alberti**
 
-````mermaid
+```mermaid
 graph LR
     Dispositivo --> web-internet
     web-internet --> Dispositvo
-````
+```
