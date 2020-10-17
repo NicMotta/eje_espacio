@@ -1,4 +1,4 @@
-### [Nic Motta](https://nicmotta.github.io)
+### Nic Motta](https://nicmotta.github.io)
 
 # Proceso / Bitácora
 - [[11 de agosto - Algoritmos]](https://nicmotta.github.io/eje_espacio/#11-de-agosto)
@@ -201,3 +201,16 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 *En el sketch de Processing, toda información es mostrada y afecta al video / registro.*
 
 ---
+
+### [13 de octubre]
+
+
+
+**Diego Alberti**
+
+````mermaid
+graph LR
+    Dispositivo --> web-internet
+    web-internet --> Dispositvo 
+````
+
