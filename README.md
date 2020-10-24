@@ -210,3 +210,14 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 **Diego Alberti**
 
 **Dispositivo** >> *web / internet* >> **Dispositivo**
+
+
+
+----
+
+### [17 de octubre]
+
+
+
+#### Pensamientos acerca de mi trabajo
+
