@@ -217,7 +217,38 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 ### [17 de octubre]
 
-
-
 #### Pensamientos acerca de mi trabajo
 
+![](data/reflexiones_MAE.png)
+---
+
+### [20 de octubre]
+
+#### Primeras pruebas de visualidades en 3D + texturas
+
+![](data/pruebas_modelos_1.gif)
+
+![](data/pruebas_modelos_2.gif)
+---
+
+### [26 de octubre]
+
+#### Diseño de prototipo con MPU9250
+
+![](data/diseño_sensor.jpg)
+
+#### Diseño 3D en Rhino de carcasa para Placa + sensores
+
+![](data/diseño_carcasa_cuaderno.jpg)
+
+![](data/diseño_carcasa_rhino.gif)
+
+#### Impresión 3D de la diseño_carcasa_rhino
+
+![](data/impresion_carcasa.gif)
+
+
+
+
+
+---
