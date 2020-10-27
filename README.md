@@ -10,6 +10,7 @@
 - [[9 de septiembre] - Investigación de poética](https://nicmotta.github.io/eje_espacio/#9-de-septiembre)
 - [[09 de octubre] - ?](https://nicmotta.github.io/eje_espacio/#09-de-octubre)
 - [[13 de octubre] - ?](https://nicmotta.github.io/eje_espacio/#13-de-octubre)
+- [[26 de octubre] - Diseño + impresió de prototipo](https://nicmotta.github.io/eje_espacio/#26-de-octubre) 
 
 ___________
 
