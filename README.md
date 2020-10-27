@@ -1,4 +1,4 @@
-### Nic Motta](https://nicmotta.github.io)
+### [Nic Motta](https://nicmotta.github.io)
 
 # Proceso / Bitácora
 - [[11 de agosto - Algoritmos]](https://nicmotta.github.io/eje_espacio/#11-de-agosto)
@@ -10,7 +10,7 @@
 - [[9 de septiembre] - Investigación de poética](https://nicmotta.github.io/eje_espacio/#9-de-septiembre)
 - [[09 de octubre] - ?](https://nicmotta.github.io/eje_espacio/#09-de-octubre)
 - [[13 de octubre] - ?](https://nicmotta.github.io/eje_espacio/#13-de-octubre)
-- [[26 de octubre] - Diseño + impresió de prototipo](https://nicmotta.github.io/eje_espacio/#26-de-octubre) 
+- [[26 de octubre] - Diseño + impresió de prototipo](https://nicmotta.github.io/eje_espacio/#26-de-octubre)
 
 ___________
 
@@ -244,7 +244,7 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 ![](data/diseño_carcasa_rhino.gif)
 
-#### Impresión 3D de la diseño_carcasa_rhino
+#### Impresión 3D de la carcasa
 
 ![](data/impresion_carcasa.gif)
 
