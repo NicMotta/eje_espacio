@@ -11,6 +11,7 @@
 - [[09 de octubre] - ?](https://nicmotta.github.io/eje_espacio/#09-de-octubre)
 - [[13 de octubre] - ?](https://nicmotta.github.io/eje_espacio/#13-de-octubre)
 - [[26 de octubre] - Diseño + impresió de prototipo](https://nicmotta.github.io/eje_espacio/#26-de-octubre)
+- [[31 de octubre] - Primer prototipo funcional portatil](https://nicmotta.github.io/eje_espacio/#31-de-octubre)
 
 ___________
 
@@ -248,8 +249,18 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 ![](data/impresion_carcasa.gif)
 
+---
 
+### [31 de octubre]
 
+#### Primer prototipo funcional [portatil]
+- ESP32 + SD y WiFi via MQTT
+- MPU9250
+- Caja contenedora
+- PowerBank
 
+#### Registro de datos >> ESP32 + MPU
+
+![](data/data_plotter_arduino.jpg)
 
 ---
