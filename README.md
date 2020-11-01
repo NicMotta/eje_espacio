@@ -12,6 +12,7 @@
 - [[13 de octubre] - ?](https://nicmotta.github.io/eje_espacio/#13-de-octubre)
 - [[26 de octubre] - Diseño + impresió de prototipo](https://nicmotta.github.io/eje_espacio/#26-de-octubre)
 - [[31 de octubre] - Primer prototipo funcional portatil](https://nicmotta.github.io/eje_espacio/#31-de-octubre)
+- [[1 de noviembre] - Funcionamiento + registro](https://nicmotta.github.io/eje_espacio/#1-de-noviembre)
 
 ___________
 
@@ -264,3 +265,14 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 ![](data/data_plotter_arduino.jpg)
 
 ---
+
+### [1 de noviembre]
+
+#### Funcionamiento + registro
+
+![](data/mpu_montaje.jpg)
+![](data/prototipo_1.jpg)
+![](data/prototipo_2.jpg)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TSIidg1wooc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
