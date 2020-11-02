@@ -270,7 +270,7 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 #### Funcionamiento + registro
 
-<img src="data/mpu_montaje.jpg" width="40%"/>
+<img src="data/mpu_montaje.jpg" width="80%"/>
 <img src="data/prototipo_1.jpg" width="40%"/>
 <img src="data/prototipo_2.jpg" width="40%"/>
 
