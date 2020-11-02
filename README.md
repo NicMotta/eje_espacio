@@ -270,9 +270,9 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 #### Funcionamiento + registro
 
-![](data/mpu_montaje.jpg =250x)
-![](data/prototipo_1.jpg =250x)
-![](data/prototipo_2.jpg =250x)
+![](data/mpu_montaje.jpg | width=50%)
+![](data/prototipo_1.jpg)
+![](data/prototipo_2.jpg)
 
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/TSIidg1wooc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
