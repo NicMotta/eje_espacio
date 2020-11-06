@@ -1,6 +1,7 @@
 ### [Nic Motta](https://nicmotta.github.io)
 
 # Proceso / Bitácora
+
 - [[11 de agosto - Algoritmos]](https://nicmotta.github.io/eje_espacio/#11-de-agosto)
 - [[18 de agosto - OpenCV]](https://nicmotta.github.io/eje_espacio/#18-de-agosto)
 - [[21 de agosto - ATMÓSFERA]](https://nicmotta.github.io/eje_espacio/#21-de-agosto)
@@ -14,7 +15,7 @@
 - [[31 de octubre] - Primer prototipo funcional portatil](https://nicmotta.github.io/eje_espacio/#31-de-octubre)
 - [[1 de noviembre] - Funcionamiento + registro](https://nicmotta.github.io/eje_espacio/#1-de-noviembre)
 
-___________
+---
 
 ### [11 de agosto]
 
@@ -23,7 +24,6 @@ ___________
 `ArrayList <contenido> crece dinámicamente;`
 
 Algoritmo de Poisson > generación del mejor candidato
-
 
 - ¿En qué punto se encuentran el [ruido] y los datos reales?
 
@@ -41,7 +41,7 @@ Siguiendo con la reflexión, puedo decir que no es necesario demostrar si realme
 
 **OpenCV en openFrameworks**
 
-*ESTRUCTURAS en el espacio* >> ¿Público? ¿De qué tamaño? ¿Con movimiento? ¿Reacciona a algún estímulo?
+_ESTRUCTURAS en el espacio_ >> ¿Público? ¿De qué tamaño? ¿Con movimiento? ¿Reacciona a algún estímulo?
 
 ---
 
@@ -51,7 +51,7 @@ Siguiendo con la reflexión, puedo decir que no es necesario demostrar si realme
 
 Campo eléctrico >> Campo magnético >> luz **>>** Todos corresponden al mismo fenómeno >> CAMPO ELECTROMAGNÉTICO [conjunción de muchas áreas que me interesan en términos medibles o numéricos]
 
-*Schroedinger pag 66* >> número de la luz
+_Schroedinger pag 66_ >> número de la luz
 
 Colores de la **ATMÓSFERA**
 
@@ -65,7 +65,6 @@ Pensar como conocemos el espacio >> Salir de la zona de confort
 
 ![](data/primeraclase.png)
 
-
 ---
 
 ### [4 de septiembre]
@@ -77,7 +76,6 @@ Pensar como conocemos el espacio >> Salir de la zona de confort
 **Pasado a limpio**
 
 ![](data/lenguaje_espacio.png)
-
 
 **Reflexiones:**
 
@@ -100,18 +98,18 @@ Pensar como conocemos el espacio >> Salir de la zona de confort
 - Espacio físico
 - Espacio conceptual
 - Espacio virtual >> a partir de los '90
+
   - Exhibición en la web
 
   **Soliman López - HARDDISKMUSEUM**
 
-*Mientras veo la presentación de Lenguaje Espacio, pienso: ¿Qué pasa con los datos? Con la veracidad de los datos, con la manipulación de ellos. ¿Hacia donde queremos [quiero] ir?*
+_Mientras veo la presentación de Lenguaje Espacio, pienso: ¿Qué pasa con los datos? Con la veracidad de los datos, con la manipulación de ellos. ¿Hacia donde queremos [quiero] ir?_
 
-*"(...) el viejo debate entre lo artificial y lo natural ya no es relevante (...) Estamos a la vez mediados y potenciados por la computadora. Estas nuevas formas de conceptualización y percepción de la realidad suponen algo mas que simples cambios cuantitativos de los modos de ver, pensar y actuar en el mundo. Constituyen, por el contrario, cambios cualitativos de nuestro ser, una  entra nueva facultado, la post-biológica facultad de cyberception" Roy Ascott*
-
+_"(...) el viejo debate entre lo artificial y lo natural ya no es relevante (...) Estamos a la vez mediados y potenciados por la computadora. Estas nuevas formas de conceptualización y percepción de la realidad suponen algo mas que simples cambios cuantitativos de los modos de ver, pensar y actuar en el mundo. Constituyen, por el contrario, cambios cualitativos de nuestro ser, una entra nueva facultado, la post-biológica facultad de cyberception" Roy Ascott_
 
 **TOPOLOGÍA**
 
-*“El arte de la instalación, que en la actualidad es la forma señera en el contexto del arte contemporáneo, opera como un reverso de la reproducción. La instalación extrae una copia del presunto espacio abierto y sin marcas de la circulación anónima y lo ubica –aunque sólo sea temporalmente- en el contexto fijo, estable y cerrado de un “aquí y ahora” topológicamente bien definido. Esto quiere decir que todos los objetos dispuestos en una instalación son originales, incluso cuando –o precisamente cuando- circulen como copias fuera de la instalación” (Boris Groys, La topología del arte contemporáneo).*
+_“El arte de la instalación, que en la actualidad es la forma señera en el contexto del arte contemporáneo, opera como un reverso de la reproducción. La instalación extrae una copia del presunto espacio abierto y sin marcas de la circulación anónima y lo ubica –aunque sólo sea temporalmente- en el contexto fijo, estable y cerrado de un “aquí y ahora” topológicamente bien definido. Esto quiere decir que todos los objetos dispuestos en una instalación son originales, incluso cuando –o precisamente cuando- circulen como copias fuera de la instalación” (Boris Groys, La topología del arte contemporáneo)._
 
 ---
 
@@ -119,7 +117,7 @@ Pensar como conocemos el espacio >> Salir de la zona de confort
 
 #### Investigación de poética
 
-*¿Cómo generar una poética con el sensor [sensores] y los datos?*
+_¿Cómo generar una poética con el sensor [sensores] y los datos?_
 
 **Campo ELECTROMAGNÉTICO**
 
@@ -127,16 +125,15 @@ El concepto campo electromagnético es un concepto formal que se utiliza en la F
 
 Esa perturbación se manifiesta de dos maneras diferentes sobre las cargas, originando dos interacciones diferenciadas:
 
- - la llamada interacción eléctrica, [modelizable] físicamente mediante el denominado campo eléctrico y
+- la llamada interacción eléctrica, [modelizable] físicamente mediante el denominado campo eléctrico y
 
- - la llamada interacción magnética, [modelizable] físicamente mediante el denominado campo magnético.
+- la llamada interacción magnética, [modelizable] físicamente mediante el denominado campo magnético.
 
 Ambos campos implican fuerzas sobre las partículas afectadas (que se manifiestan en situaciones diferentes) y por tanto son magnitudes vectoriales, con dirección, sentido e intensidad.
 
 Los campos electromagnéticos se propagan por el espacio como ondas electromagnéticas a la velocidad de la luz (en el vacío) de acuerdo con las Ecuaciones de Maxwell, llevando asociada una energía electromagnética.
 
 ![](data/wave_animacion.gif)
-
 
 **Nomenclatura HERTZ >> frecuencias**
 
@@ -146,14 +143,13 @@ Por ejemplo, el hercio se aplica en física a la medición de la cantidad de vec
 
 Un hercio es la frecuencia de una oscilación que sufre una partícula en un período de un segundo.
 
-
 #### El ruido es frecuencia
 
 ![](data/noise_1.jpg)
 
 Pensar diferentes frecuencias de la atmósfera, entre ellas las que pueden ser medidas con sensores >> MPU9250, giroscópico, acelerómetro, **magnetómetro**, temperatura.
 
-*En los 3 ejes [total 9 ejes].*
+_En los 3 ejes [total 9 ejes]._
 
 #### El humano, el entorno, la atmósfera y las frecuencias.
 
@@ -170,11 +166,9 @@ Siguiendo este pensamiento:
 - **Nuevamente aparece la pregunta acerca de la vida, de lo vivo y lo no vivo**
 - ¿Cómo podemos vincular todo esto en el espacio, en una poética?
 
-
 ### Mapa de frecuencia y pensamientos
 
 <iframe allowfullscreen webkitallowfullscreen width="640" height="480" frameborder="0" seamless src="https://p3d.in/e/GLF0h"></iframe>
-
 
 ---
 
@@ -186,7 +180,7 @@ Siguiendo este pensamiento:
 
 Generar un espejo con análisis de la imagen a través de video o captura de video, utilizar OpenCV.
 
-*Registro de mi viaje al trabajo en auto*
+_Registro de mi viaje al trabajo en auto_
 
 - Sensor MPU >> valores
 
@@ -194,7 +188,7 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
   - Acelerómetro XYZ
 
-  - *Magnetómetro* XYZ
+  - _Magnetómetro_ XYZ
 
   - Temperatura
 
@@ -202,28 +196,23 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 - Registro sonoro
 
-*En el sketch de Processing, toda información es mostrada y afecta al video / registro.*
+_En el sketch de Processing, toda información es mostrada y afecta al video / registro._
 
 ---
 
 ### [13 de octubre]
 
-
-
 **Diego Alberti**
 
-**Dispositivo** >> *web / internet* >> **Dispositivo**
+**Dispositivo** >> _web / internet_ >> **Dispositivo**
 
-
-
-----
+---
 
 ### [17 de octubre]
 
 #### Pensamientos acerca de mi trabajo
 
-![](data/reflexiones_MAE.png)
----
+## ![](data/reflexiones_MAE.png)
 
 ### [20 de octubre]
 
@@ -231,8 +220,7 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 
 ![](data/pruebas_modelos_1.gif)
 
-![](data/pruebas_modelos_2.gif)
----
+## ![](data/pruebas_modelos_2.gif)
 
 ### [26 de octubre]
 
@@ -255,6 +243,7 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 ### [31 de octubre]
 
 #### Primer prototipo funcional [portatil]
+
 - ESP32 + SD y WiFi via MQTT
 - MPU9250
 - Caja contenedora
@@ -274,5 +263,7 @@ Generar un espejo con análisis de la imagen a través de video o captura de vid
 <img src="data/prototipo_1.jpg" width="40%"/>
 <img src="data/prototipo_2.jpg" width="40%"/>
 
-
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/TSIidg1wooc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
