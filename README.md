@@ -14,7 +14,11 @@
 - [[26 de octubre] - Diseño + impresió de prototipo](https://nicmotta.github.io/eje_espacio/#26-de-octubre)
 - [[31 de octubre] - Primer prototipo funcional portatil](https://nicmotta.github.io/eje_espacio/#31-de-octubre)
 - [[1 de noviembre] - Funcionamiento + registro](https://nicmotta.github.io/eje_espacio/#1-de-noviembre)
-
+- [[4 de noviembre] - Devolución j.crowe](https://nicmotta.github.io/eje_espacio/#4-de-noviembre)
+- [[5 de noviembre] - Alejandra Ceriani - Biosensado](https://nicmotta.github.io/eje_espacio/#5-de-noviembre)
+- [[10 de noviembre] - El problema de ARRAY](https://nicmotta.github.io/eje_espacio/#10-de-noviembre)
+- [[16 de noviembre] - ?](https://nicmotta.github.io/eje_espacio/#16-de-noviembre)
+- 
 ---
 
 ### [11 de agosto]
@@ -327,7 +331,7 @@ Me lleva a pensar que no solo soy un número, sino que soy [o formo parte] de un
   - ¿Por qué varios arrays?
   - ¿Cada array tiene un tipo de dato?
 
-´ArrayList <contenido>´
+`ArrayList <contenido> crece dinámicamente;`
 
 ---
 
