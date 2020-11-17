@@ -267,3 +267,78 @@ _En el sketch de Processing, toda información es mostrada y afecta al video / r
 
 ---
 
+### [4 de noviembre]
+
+#### Devolucion de j.crowe
+
+- ¿Qué es lo sensible en la relación software - hardware?
+    - No solo conmigo, sino con el resto.
+- Poner los pies en el barro >> comportamiento celular.
+  - Números cada vez más específicos.
+- Curaduría de nuestros impulsos.
+- Poner en tensión.
+
+---
+
+### [5 de noviembre]
+
+#### Alejandra Ceriani + Federico Guerrero >> Biosensado
+
+Iones >> potencial de acción / cadena de reacción
+
+Cuerpo >> fuente electrónica de tensión >> electrones capacitivos *no invasivo*
+
+Siempre se mide entre dos puntos del cuerpo, para tener referencias.
+**EEC** >> muchas neuronas haciendo algo al mismo tiempo >> ejemplo de tribuna alentando
+**Músculos** >> amplificador natural del cerebro.
+
+Referencias:
+  - Lisa Park - Eunoia
+
+---
+
+### [10 de noviembre]
+
+#### El problema del [ARRAY]
+
+El problema del array, pensarme como un número y la dificultad [personal] de poder ubicar esos datos en el array de un lenguaje de programación. 
+
+- El array como capsula ordenadora
+- Guardado de información 
+- Backup
+- El array como ordenamiento de información
+
+*Eje Tiempo* >> Seed, Random
+*Eje Espacio* >> Número, Array
+
+- ¿Cómo conjugo todo esto que vengo pensando?
+
+**Dificultad**
+
+**Datos** >> formatos >> lenguajes de programación >> [array]
+
+**El array como manipulación de información guardada**
+ - Estructura de datos [todo tipo de datos]
+ - Conjunto de datos >> homogeneos
+    - mismo tipo
+    - relacionados
+
+Me lleva a pensar que no solo soy un número, sino que soy [o formo parte] de un array [o varios array]
+  - ¿Por qué varios arrays?
+  - ¿Cada array tiene un tipo de dato?
+
+´ArrayList <contenido>´
+
+---
+
+### [16 de noviembre]
+
+**Sensados** >> banco de datos
+
+**Sonido**
+
+**Tipos de comportamiento** >> tipos de comportamiento que se pueden aplicar a otras cosas. No necesariamente tiene que ser una visualidad o modelos 3D. ¿Cómo serían esos tipos de comportamiento?
+
+*¿Qué pasas con todo esto?*
+
+---
