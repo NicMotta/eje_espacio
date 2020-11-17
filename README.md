@@ -346,3 +346,57 @@ Me lleva a pensar que no solo soy un número, sino que soy [o formo parte] de un
 *¿Qué pasas con todo esto?*
 
 ---
+
+### [17 de noviembre]
+
+**¿Qué quiero decir con todo esto?**
+- ¿Por qué el [array]?
+  
+  El array es la manera más utilizada para almacenar información dentro de un algoritmo o dentro de un código. 
+
+  Si yo me senso / registro [por más que lo envie por internet o lo guarde en una memoria SD] primero estará en un array.
+
+  Por lo tanto, si me registro [mi versión numérica] entrará en un array.
+
+  Además el array es tan sencillo como complejo, dependiendo del lenguaje ó la manera de fraccion y guardar dentro de tal.
+
+  En los últimos meses los estuvo utilizando constantemente con mayor o menor efectividad, es por eso que surgió **"El problema de los arrays"** como uno de los disparadores. El otro es ***"Soy parte del número, soy un número"**.
+
+**Preguntas y posibles respuestas [ó acercamientos]**
+
+- *¿Por qué decido sensarme?* 
+  - Decido sensarme, porque me pienso como un número. Así como con [MURU 7.8](muru7-8.github.io) registramos diferentes situaciones de la naturaleza, en este caso decido porneme al mismo nivel y asumir que somos parte de la naturaleza y que como todo fenómeno puede ser medible [con mayor o menor exactitud o presición y con alta o baja tecnología]. Decido registrarme con los mismos sensores utilizados y generar un banco de datos, para luego manipularlos [o directamente manipularlos en tiempo real].
+
+  Al mismo tiempo, incluirme en la obra, en el sensado y poner el cuerpo requiere salir de mi zona de confort tal como me lo propuso Jazmin Adler en sus clases con Claudia Valente.
+  Decido asumir los riezgos y experimentar.
+
+- *¿Qué pienso hacer con todos esos datos?*
+ - En primera instancia mi idea es generar varios sensados, de diferentes situaciones y generar un banco de datos.
+
+ - Como segunda instancia, pienso en registrar datos en tiempo real para que puedan ser procesados y generen: 
+    - sonido
+    - visuales
+    - modelos
+    - etc.
+
+- *¿De qué manera van a relacionarse el software y hardware?*
+  - Ficha técnica: utilizaré un microcontrolador ESP32 y un sensor MPU9250.
+  - completar
+
+- *Relaciones que existen en mi proyecto / idea* [desarrollar luego]
+  - Relación humano - número
+  - Relación humano - naturaleza
+  - Relación humano - dato
+  - Relación humano - máquina
+    - Relación humano - software
+    - Relación humano - hardware
+  - Relación humano - internet
+  - Relación materia - dato
+  - **Relación humano - naturaleza - número**
+  - continuar
+
+- *Continuando con la relación humano - naturaleza - número*
+  - Puedo pensar en la puesta en diálogo entre los distintos sensados registrados, por un lado los de la naturaleza hechos con MURU7.8, los de sistema_innatural_1 y los registros hechos sobre mi. Ponerlos al mismo nivel, compararlos. **Pensarme en número me lleva a situarme al mismo nivel que cualquier fenomeno medible.**
+  - **¿Qué tal reales son sos datos?** 
+    - ¿Realmente importa?
+
