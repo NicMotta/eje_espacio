@@ -19,6 +19,10 @@
 - [[10 de noviembre] - El problema de ARRAY](https://nicmotta.github.io/eje_espacio/#10-de-noviembre)
 - [[16 de noviembre] - ?](https://nicmotta.github.io/eje_espacio/#16-de-noviembre)
 - [[17 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#17-de-noviembre)
+- - [[18 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#18-de-noviembre)
+- - [[19 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#19-de-noviembre)
+- - [[20 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#20-de-noviembre)
+- 
 ---
 
 ### [11 de agosto]
@@ -478,4 +482,17 @@ Gesto >> disrrupción
 
 ![](data/diagrama_idea_3.jpg)
 
+
+#### Principios de la narrativa transmedia (Jenkins)
+
+- Expansión vs. profundidad
+- Continuidad vs. multiplicidad
+- Inmersión vs. extraibilidad
+- Construcción de mundos
+- Serialidad
+- Subjetividad
+- Realización (performance)
+  
+[Scott Snibbe - Biophilia, a transmedia story of music, technology and nature](https://www.coursera.org/lecture/transmedia-storytelling/scott-snibbe-biophilia-a-transmedia-story-of-music-technology-and-nature-6A6fd?ranMID=40328&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-B00jpcGTNLhk81HcMi4JMQ&siteID=je6NUbpObpQ-B00jpcGTNLhk81HcMi4JMQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=je6NUbpObpQ)
 ---
+
