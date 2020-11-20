@@ -400,3 +400,82 @@ Me lleva a pensar que no solo soy un número, sino que soy [o formo parte] de un
   - **¿Qué tal reales son sos datos?** 
     - ¿Realmente importa?
 
+---
+
+### [18 de noviembre]
+
+**Pensar el sonido como dato** >> librerias Python >> Pypi.org
+
+- Ajuste automático >> *back propagation* >> Redes neuronales
+
+¿De qué manera puedo incorporar IA al eje_espacio para analizar los datos?
+  - No sería en tiempo real
+  - a partir de .txt >> Generar datos a partir de datos
+  - ¿Son datos validos?
+  - ¿Son datos verdaderos?
+
+*Nos estamos moviendo a un futuro en el que entre lo sintético y lo real solamente quedará la duda en el aspecto visual.* DotCSV
+
+### [19 de noviembre]
+
+**Ideas hasta el momento**
+
+**1- Etapa registro y almacenamiento de datos**
+  - ESP32 conectado a internet + MPU9250 >> SHIFTR.IO
+  - Algoritmo que levanta del servidor y lo hace .txt
+    - Processing o p5.js >> pensado para la web (accesible para todes)
+
+**2- Procesamiento de datos**
+  - Una vez hecho varios registros >> proceso la información para generar sonido ¿utilizar IA?
+
+
+**Preguntas que surgen**
+
+Si me pienso como un número - datos
+- ¿En qué se miden? ¿Qué cantidad de datos equivale a X cosa?
+- ¿Un dato es lo mismo que 1000 datos? ¿Por qué?
+- ¿Lo que importa es la mayor cantidad? ¿O importa más el dato procesado?
+  
+---
+
+### [20 de noviembre]
+
+#### data_nic // nic_data
+
+- animado
+- digital
+- movimiento
+- territorializado
+
+**¿Cuales son los elementos que me conforman?
+
+Gesto >> disrrupción 
+
+#### IDEA #3
+
+**1- Realizar registros de muchas cosas mias y de mi entorno**
+  - Esos registros 
+    - sensados
+    - grabaciones     >>> pasarlos a dato numérico - número
+    - videos
+    - etc           
+
+- Con esos números >> procesarlos para generar una estructura (por ahora de manera digital) con movimiento que represente mi clon numérico de lo que soy y de lo que me rodea. Además generar sonido con esos datos.
+- Pensar dicha estructura como una maqueta digita pero que puede ser trasladado a la presencialidad de un espacio.
+- La realización de estos sensados fue una perfo y una manera de incluir el cuerpo (e incluirme). 
+
+**Palabras clave**
+
+- numero
+- estructura
+- datos
+- movimiento
+- sonido
+- registro
+- banco de datos
+- inteligencia artifical
+- cuerpo
+
+![](data/diagrama_idea_3.jpg)
+
+---
