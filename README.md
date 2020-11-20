@@ -19,10 +19,10 @@
 - [[10 de noviembre] - El problema de ARRAY](https://nicmotta.github.io/eje_espacio/#10-de-noviembre)
 - [[16 de noviembre] - ?](https://nicmotta.github.io/eje_espacio/#16-de-noviembre)
 - [[17 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#17-de-noviembre)
-- - [[18 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#18-de-noviembre)
-- - [[19 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#19-de-noviembre)
-- - [[20 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#20-de-noviembre)
-- 
+- [[18 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#18-de-noviembre)
+- [[19 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#19-de-noviembre)
+- [[20 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#20-de-noviembre)
+
 ---
 
 ### [11 de agosto]
