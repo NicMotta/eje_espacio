@@ -494,5 +494,6 @@ Gesto >> disrrupción
 - Realización (performance)
   
 [Scott Snibbe - Biophilia, a transmedia story of music, technology and nature](https://www.coursera.org/lecture/transmedia-storytelling/scott-snibbe-biophilia-a-transmedia-story-of-music-technology-and-nature-6A6fd?ranMID=40328&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-B00jpcGTNLhk81HcMi4JMQ&siteID=je6NUbpObpQ-B00jpcGTNLhk81HcMi4JMQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=je6NUbpObpQ)
+
 ---
 
