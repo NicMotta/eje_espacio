@@ -19,9 +19,10 @@
 - [[10 de noviembre] - El problema de ARRAY](https://nicmotta.github.io/eje_espacio/#10-de-noviembre)
 - [[16 de noviembre] - ?](https://nicmotta.github.io/eje_espacio/#16-de-noviembre)
 - [[17 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#17-de-noviembre)
-- [[18 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#18-de-noviembre)
-- [[19 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#19-de-noviembre)
-- [[20 de noviembre] - Reflexiones acerca del proyecto](https://nicmotta.github.io/eje_espacio/#20-de-noviembre)
+- [[18 de noviembre] - ](https://nicmotta.github.io/eje_espacio/#18-de-noviembre)
+- [[19 de noviembre] - ](https://nicmotta.github.io/eje_espacio/#19-de-noviembre)
+- [[20 de noviembre] - ](https://nicmotta.github.io/eje_espacio/#20-de-noviembre)
+- [[23 de noviembre] - Idea definitiva](https://nicmotta.github.io/eje_espacio/#20-de-noviembre)
 
 ---
 
@@ -451,7 +452,7 @@ Si me pienso como un número - datos
 - movimiento
 - territorializado
 
-**¿Cuales son los elementos que me conforman?
+**¿Cuales son los elementos que me conforman?**
 
 Gesto >> disrrupción 
 
@@ -460,7 +461,7 @@ Gesto >> disrrupción
 **1- Realizar registros de muchas cosas mias y de mi entorno**
   - Esos registros 
     - sensados
-    - grabaciones     >>> pasarlos a dato numérico - número
+    - grabaciones >> pasarlos a dato numérico - número
     - videos
     - etc           
 
@@ -497,3 +498,46 @@ Gesto >> disrrupción
 
 ---
 
+### [23 de noviembre]
+
+## Idea definitiva para eje_espacio
+
+### data_nec
+
+**data_nec** es una inteligencia artificial alimentada con registros propios, registros de amigos / familiares y recuerdos / anecdotas relatadas por texto y audio. Como también imágenes y videos.
+
+Se trata de un clon de mi mismo, capaz de comunicarse textualmente, sonoramente a traves de mezclas de sonidos y corporizarse en un exoesqueleto derivados de datos procesados.
+
+El pensarme como número hizo plantearme ¿De qué manera manejo esos números? ¿Cómo los proceso? y sobre todo ¿Con qué fin?
+
+Los recientes avances en el *machine learning >> redes neuronales* y su fácil acceso a ellas facilita la posibilidad de procesar grandes cantidades de información, sobre todo en bancos de datos, como lo es el *data mining*.
+
+Es por esto que aprovechando las posibildades de estas inteligencias artificiales decido crear un clon basado en información mi personal, registros de mis movimientos, recuerdos y anectodas relatadas por personas de mi entorno. Una de las cosas que entendí es que es imposible situarme en el mundo pensando solamente en mi, cuando en realidad el entorno influye mucho mas de lo que pienso. 
+
+[imagen de individuo - entorno]
+
+El proyecto **data_nec** es el comienzo de un proceso que continuará más allá del eje_espacio. Ampliando cada vez más el banco de datos y por lo tanto mejorando el desempeño del clon. A mayor información, mejor desempeño.
+
+
+[continuar]
+
+
+### Aspecto técnico / Funcionamiento de las partes: esperado
+
+#### Sonoro
+
+En el aspecto sonoro, tomaré los audios [tanto de relatos mios como de mi entorno], pasarán por un proceso a través de una IA que lo catalogará por nota musical [C, C#, D ...] 
+
+[continuar]
+
+#### Texto
+
+[completar]
+
+#### Estructura / exoesqueleto
+
+[completar]
+
+#### Mapa
+
+[completar]
