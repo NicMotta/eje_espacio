@@ -494,7 +494,7 @@ Gesto >> disrrupción
 - Subjetividad
 - Realización (performance)
   
-[Scott Snibbe - Biophilia, a transmedia story of music, technology and nature](https://www.coursera.org/lecture/transmedia-storytelling/scott-snibbe-biophilia-a-transmedia-story-of-music-technology-and-nature-6A6fd?ranMID=40328&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-B00jpcGTNLhk81HcMi4JMQ&siteID=je6NUbpObpQ-B00jpcGTNLhk81HcMi4JMQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=je6NUbpObpQ)
+**[Scott Snibbe - Biophilia, a transmedia story of music, technology and nature](https://www.coursera.org/lecture/transmedia-storytelling/scott-snibbe-biophilia-a-transmedia-story-of-music-technology-and-nature-6A6fd?ranMID=40328&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-B00jpcGTNLhk81HcMi4JMQ&siteID=je6NUbpObpQ-B00jpcGTNLhk81HcMi4JMQ&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=je6NUbpObpQ)**
 
 ---
 
@@ -522,7 +522,7 @@ El proyecto **data_nec** es el comienzo de un proceso que continuará más allá
 [continuar]
 
 
-### Aspecto técnico / Funcionamiento de las partes: esperado
+### Funcionamiento de las partes
 
 #### Sonoro
 
@@ -532,12 +532,32 @@ En el aspecto sonoro, tomaré los audios [tanto de relatos mios como de mi entor
 
 #### Texto
 
-[completar]
-
-#### Estructura / exoesqueleto
-
-[completar]
-
-#### Mapa
+Utilizaré una red neuronal llamada [GPT-2](https://openai.com/blog/gpt-2-1-5b-release/), la cual genera texto en base a otros textos [proporcionados por mi]. Estos textos seran relators, anecdotas y textos propios o de gente cercana a mi [mi entorno]. 
+El algoritmo aprendera de todo eso y devolverá ... 
 
 [completar]
+
+#### Estructura / Exoesqueleto
+
+[completar]
+
+#### Mapa conceptual / Mapa cartográfico
+
+[completar]
+
+#### Cosas para pensar y reflexionar
+
+- **El manejo de la base de datos y el orden**
+- **La utilización de los registros y las acciones cotidianas**
+- **Volver al array**
+- **RETOMO ESTO**
+  - ¿Qué pasa si el objetivo de sensado soy yo o **mi entorno**? >> **Espacio que habito**.
+
+- **Lo vivo / Lo no vivo**
+  - ¿Qué es lo vivo?
+
+- **Inteligencia Artificial** >> se conecta con la noción de **vida inteligente** que no plantea **La Padula** en su pregunta **"¿Cómo detectar vida inteligente en Marte?"**.
+
+- **Percibo el espacio con otros sentidos [SENSORES]**
+
+---
